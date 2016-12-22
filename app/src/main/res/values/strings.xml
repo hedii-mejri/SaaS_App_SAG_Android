@@ -1,0 +1,75 @@
+<resources>
+    <!-- Application name -->
+    <string name="app_name">SaaS Security Assessment Guide</string>
+
+    <!-- Activities titles -->
+    <string name="title_activity_todo">Add Checklist Element</string>
+    <string name="title_activity_todo_edit">Edit Checklist Element</string>
+    <string name="title_activity_about">About</string>
+
+    <!-- Actions -->
+    <!-- <string name="action_reset">Reset Checklist</string>-->
+    <string name="action_about">About</string>
+    <string name="action_discard">Discard Element</string>
+    <string name="action_delete">Delete Element</string>
+
+    <!-- AboutLibraries -->
+    <string name="aboutLibraries_description_showIcon">true</string>
+    <string name="aboutLibraries_description_showVersion">true</string>
+    <string name="aboutLibraries_description_text">
+        <![CDATA[
+    <b>
+        When scrutinizing the security capabilities of a SaaS provider, the best way
+to start is to know the questions you need to ask and what to look for in their
+answers. This checklist is a guide to understanding and exploring the
+multiple security layers of cloud-based sharing service, including:</b> <br/><br/>
+• What to look for in an information security program<br/>
+• The importance of application architecture for a secure environment<br/>
+• How to think about data security<br/>
+• Correctly assessing systems and network security<br/>
+• Key areas to focus when determining data center security<br/>
+    ]]>
+    </string>
+
+    <!-- General -->
+    <string name="edited"><![CDATA[Edited: <b>"%1$s"</b>]]></string>
+    <string name="created"><![CDATA[Created: <b>"%1$s"</b>]]></string>
+    <string name="no_todo">No Checklist Elements\'s, try adding a few! :)</string>
+    <string name="completed">Completed</string>
+    <string name="section">Section</string>
+    <string name="sectionA">I. Information Security Program</string>
+    <string name="sectionB">II. Application Architecture and Security</string>
+    <string name="sectionC">III. Data Security</string>
+    <string name="sectionD">IV. System And Network Security</string>
+    <string name="sectionE">V. Data Center Security</string>
+    <string name="sectionX">Extras</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+
+    <string name="title_activity_loader">LoaderActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_activity_company_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is too short (5 min)</string>
+    <string name="error_invalid_password">This password is too short (5 min)</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_intro">IntroActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
